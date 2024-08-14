@@ -6,9 +6,14 @@
 
 - Font weight:
 Default: 400
+Medium: 500
+Semi-bold: 600
+Bold: 700
 
 - Line heights:
 Default: 1
+1.05
+1.6
 
 --- 2. Colors
 
@@ -27,7 +32,7 @@ Default: 1
 
 
 --- 6. Border radius
-
+Default: 9px
 
 --- 7. Whitespace
 
@@ -107,7 +112,6 @@ body {
 /* ============================== */
 /* Header */
 /* ============================== */
-
 .header {
     display: flex;
     justify-content: space-between;
