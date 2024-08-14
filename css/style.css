@@ -104,3 +104,20 @@ body {
     margin-right: 1.6rem;
 }
 
+/* ============================== */
+/* Header */
+/* ============================== */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fdf2e9;
+    height: 9.6rem;
+    padding: 0 4.8rem;
+}
+
+.logo {
+    height: 2.4rem;
+}
+
