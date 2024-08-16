@@ -130,6 +130,7 @@ body {
     letter-spacing: 0.75px;
 }
 
+.btn,
 .btn:link,
 .btn:visited {
     display: inline-block;
@@ -138,6 +139,10 @@ body {
     font-size: 2rem;
     padding: 1.6rem 3.2rem;
     border-radius: 9px;
+
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
 
     transition: all 0.3s;
 }
